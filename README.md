@@ -24,4 +24,6 @@ The solutions we find are indicated in the file **CR_Attribution**. We find ther
   - The optimized sum
   - The execution time to find the solution
 
+![image](https://user-images.githubusercontent.com/105392989/175881003-4ea3c968-2d27-43d9-901b-80fc2af94d88.png)
+
 This project was done in a school context with another classmate.
